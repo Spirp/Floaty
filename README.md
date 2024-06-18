@@ -1,2 +1,2 @@
 # Floaty
-A Floating-Point number calculator scriptfor arbitrary precision and range
+A Floating-Point number calculator script for arbitrary precision and range
